@@ -1,4 +1,4 @@
-# Hi, I'm maza1s 👋
+# Hi, I'm Shellc0de 👋
 
 I'm a Full Stack Developer passionate about building responsive, accessible, and user-friendly web experiences.
 
