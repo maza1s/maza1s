@@ -12,14 +12,12 @@ I'm a Full Stack Developer passionate about building responsive, accessible, and
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=maza1s&show_icons=true&count_private=true&theme=blue-green&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maza1s&layout=compact&count_private=true&theme=blue-green&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maza1s&theme=blue-green&hide_border=true)](https://github.com/maza1s)
 
 
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </p>
