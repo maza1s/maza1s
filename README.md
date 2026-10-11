@@ -19,16 +19,6 @@ I'm a Full Stack Developer passionate about building responsive, accessible, and
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maza1s&theme=blue-green&hide_border=true)](https://github.com/maza1s)
 
-## 🌱 Currently Learning
-
-- Advanced frontend architecture
-- Backend optimization
-- API design and scalable app patterns
-
-## 📌 Projects
-
-- [TheMe](https://github.com/maza1s/TheMe)
-- [Your project links here]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
